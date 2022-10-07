@@ -11,4 +11,4 @@ This project is an attempt to mimic a portfolio on a webplatform. Most of the it
 
 ## Link to Deployed Application
 
-https://noahfajarda.github.io/horiseon-code-refactor-demo/
+https://noahfajarda.github.io/02-sample-portfolio-web-app/
