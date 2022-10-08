@@ -82,7 +82,7 @@ nav a {
   background-size: 100% 0.2em;
   background-position: bottom;
   transition: all 0.25s ease-in;
-  font-size: 1.9rem;
+  font-size: 1.71rem;
 }
 
 /* LARGE image
@@ -331,6 +331,7 @@ main {
     justify-content: center;
     margin-bottom: 2px;
     align-items: end;
+    padding-top: 8px;
   }
 
   header nav {
@@ -345,8 +346,12 @@ main {
   }
 
   nav li a {
-    font-size: 2.8vw;
+    font-size: 1rem;
     top: 200px;
+  }
+
+  nav li {
+    width: 25vw;
   }
 
   nav a:hover {
@@ -432,6 +437,14 @@ main {
 
   nav li a {
     top: 200px;
+  }
+
+  nav li {
+    width: 50vw;
+  }
+
+  nav ul {
+    padding-top: 16px;
   }
 
   .col-headers nav li a {
