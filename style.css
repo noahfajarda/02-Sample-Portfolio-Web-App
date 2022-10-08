@@ -42,6 +42,14 @@ header .brand {
   border-bottom-right-radius: 20px;
 }
 
+header img {
+  width: 5vw;
+  height: 5vw;
+  border: 3px solid;
+  border-radius: 40px;
+  border-color: var(--surrounding-color);
+}
+
 /* nav
 --------------------------------------------------- */
 nav {
@@ -313,6 +321,10 @@ main {
     font-size: 10vw;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
+  }
+
+  header img {
+    display: none;
   }
 
   header nav ul {
