@@ -6,7 +6,7 @@ This project is an attempt to mimic a portfolio on a webplatform. Most of the it
 
 ## Screenshot
 
-![App Screenshot](https://github.com/noahfajarda/02-sample-portfolio-web-app/blob/main/Assets/Screen%20Shot%202022-10-06%20at%2011.21.04%20PM.png)
+![App Screenshot](https://github.com/noahfajarda/02-sample-portfolio-web-app/blob/main/Assets/Screen%20Shot%202022-10-06%20at%2011.21.05%20PM.png)
 ![App Screenshot](https://github.com/noahfajarda/02-sample-portfolio-web-app/blob/main/Assets/Screen%20Shot%202022-10-06%20at%2011.21.45%20PM.png)
 
 ## Link to Deployed Application
