@@ -7,7 +7,6 @@
 /* Global Variables
 --------------------------------------------------- */
 :root {
-  /* TODO: CHANGE VARIABLE NAMES */
   --main-color: rgba(68, 88, 119, 1);
   --surrounding-color: rgba(127, 219, 255, 1);
   --main-text-color: rgba(49, 52, 61, 1);
