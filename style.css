@@ -89,7 +89,7 @@ nav a {
 .background-image,
 footer .background-image {
     background: rgb(36, 136, 66);
-    background-image: url("./assets/background.jpeg"),
+    background-image: url("./Assets/images/background.jpeg"),
         linear-gradient(
             180deg,
             var(--surrounding-color) 0%,
@@ -281,28 +281,28 @@ main {
 
 /* images
 --------------------------------------------------- */
-.basketball {
-    background-image: url(https://cdn.nba.com/manage/2022/09/warriors092422.jpg);
+.group-project-1 {
+    background-image: url("./Assets/images/artifact-images/project-1.png");
     object-fit: none;
 }
 
-.music {
-    background-image: url(https://completemusicupdate.com/wp-content/uploads/2021/04/andersonpaak2021.jpg);
+.homework-5 {
+    background-image: url("./Assets/images/artifact-images/hw-5.png");
     background-position: none;
 }
 
-.football {
-    background-image: url(https://static.clubs.nfl.com/image/private/t_editorial_landscape_8_desktop_mobile/f_png/49ers/f0u13cfpqlqtkp2zrfpn.png);
-    background-size: 150%;
+.homework-6 {
+    background-image: url("./Assets/images/artifact-images/hw-6.png");
+    background-size: 100%;
 }
 
-.technology {
-    background-image: url(https://s3-prod.chicagobusiness.com/Rivian-r1t-2021_1.jpg);
-    background-size: 90%;
+.homework-4 {
+    background-image: url("./Assets/images/artifact-images/hw-4.png");
+    background-size: 100%;
 }
 
-.movies {
-    background-image: url(https://mrmoviefiend.files.wordpress.com/2010/06/inception-poster-8.jpg);
+.homework-3 {
+    background-image: url("./Assets/images/artifact-images/hw-3.png");
 }
 
 /* media queries
