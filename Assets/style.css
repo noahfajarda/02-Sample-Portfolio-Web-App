@@ -305,6 +305,14 @@ main {
     background-image: url("./images/artifact-images/hw-3.png");
 }
 
+.homework-10 {
+    background-image: url("./images/artifact-images/hw-10.png");
+}
+
+.homework-11 {
+    background-image: url("./images/artifact-images/hw-11.png");
+}
+
 /* media queries
 --------------------------------------------------- */
 @media screen and (max-width: 980px) {
