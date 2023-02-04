@@ -286,6 +286,11 @@ main {
     object-fit: none;
 }
 
+.group-project-2 {
+    background-image: url("./images/artifact-images/project-2.png");
+    object-fit: none;
+}
+
 .homework-5 {
     background-image: url("./images/artifact-images/hw-5.png");
     background-position: none;
